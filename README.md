@@ -9,7 +9,7 @@
 
 # Habilidades
 
-- Ferramentas e Tecnologias: AZURE (AZ900; AI900; SoftSkills; linguagens de Programação: JAVA, PYTHON (Básico<>Intermeediário); SQL, etc.
+- Ferramentas e Tecnologias: AZURE (AZ900; AI900; SoftSkills; linguagens de Programação: JAVA, PYTHON (Básico<>Intermediário); SQL, etc.
 - Foco: A ciência de dados se concentra na análise de grandes volumes de dados para descobrir padrões, tendências e insights. E, juntamente com as minhas habilidades acadêmicas, estou aprendendo a utilizar técnicas de estatística ao machine learning e programação.
 
 # Objetivo: Criar modelos preditivos e algoritmos que possam ser usados para tomar decisões informadas e responsáveis e automatizar processos.

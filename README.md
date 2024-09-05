@@ -5,7 +5,7 @@
 - 📫 Contato: Você pode me encontrar em:
   LinkedIn: linkedin.com/in/luciana-bruno-datascience-ai
 - 😄 Pronouns: She/Her
-⚡ Fun fact: Em meu primeiro contato com a IA, fiquei extremamente desapontada. Sendo da geração X, desejei ter mais tempo de vida para acompanhar sua evolução tecnológica e educacional. Gostaria de extrair o melhor da IA e, ao mesmo tempo, aprender mais sobre mim mesma. Quero melhorar minhas habilidades e intelecto, utilizando e explorando o conhecimento como um cientista de dados. Além disso, acredito firmemente na importância do respeito e da inclusão em todas as áreas, especialmente na tecnologia. Promover um ambiente diversificado e inclusivo não só enriquece o aprendizado, mas também impulsiona a inovação e a colaboração.
+- ⚡ Fun fact: Em meu primeiro contato com a IA, fiquei extremamente desapontada. Sendo da geração X, desejei ter mais tempo de vida para acompanhar sua evolução tecnológica e educacional. Gostaria de extrair o melhor da IA e, ao mesmo tempo, aprender mais sobre mim mesma. Quero melhorar minhas habilidades e intelecto, utilizando e explorando o conhecimento como um cientista de dados. Além disso, acredito firmemente na importância do respeito e da inclusão em todas as áreas, especialmente na tecnologia. Promover um ambiente diversificado e inclusivo não só enriquece o aprendizado, mas também impulsiona a inovação e a colaboração.
 
 # Habilidades
 
